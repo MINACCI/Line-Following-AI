@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+.ipynb_checkpoints
+.venv
+dataset.zip
+raw data.zip
+video_test.mp4
