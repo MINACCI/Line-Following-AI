@@ -3,7 +3,7 @@ This model has been built using `Keras` and the dataset can be found [here](http
 Each frame of the video below is processed using `opencv`. The script running in [sort_frame.ipynb](https://github.com/MINACCI/Line-Following-AI/blob/main/test/sort_frame.ipynb), sort the frame based on the angle of the tape, when the bounding box become white, the frame is saved in the corresponding folder inside the dataset. The mask applied to the source can be modulate using the `Trackbar` window.
 
 <p align="center">
-  <img src="sorting frames demo.gif" width="80%" height="80%"/>
+  <img src="sorting frames demo.gif"/>
   <br>
 </p>
 
